@@ -19,7 +19,7 @@ cat batch1/*.fasta > batch1_insertion_sequences.fasta
 
 # Create a non-redundant catalogue
 cd-hit-est -i batch1_insertion_sequences.fasta -o batch1_nonred_insertion_sequences -c 0.99 -M 64000 -T 8
-grep '^>' batch1_nonred_insertion_sequences.fasta > headers.txt
+grep '^>' batch1_nonred_insertion_sequences.fasta | sort | uniq > headers.txt
 num=$(cat headers.txt | wc -l)
 for ((i=1;i<=${num};i++)); do is=$(sed -n "${i}p" headers.txt); grep -A1 $is batch1_nonred_insertion_sequences.fasta | head -2 >> insertion_sequence_catalogue.fasta; done
 ```
