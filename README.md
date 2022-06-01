@@ -1,3 +1,4 @@
-# Comprehensive Insertion Sequence Catalogue
+# Comprehensive Insertion Sequence Catalogue (CISC)
 
-This repository contains a catalogue of unique insertion sequences in FASTA format. The directories are named by the versions of [PaliDIS](https://github.com/blue-moon22/palidis) used to generate the catalogue.
+## About
+This repository contains a catalogue of insertion sequences in FASTA format generated using [PaliDIS](https://github.com/blue-moon22/palidis).
