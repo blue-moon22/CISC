@@ -11,7 +11,7 @@ library(dplyr)
 
 # Combine info
 is_names <- read.delim(args[1], header = FALSE, stringsAsFactors = FALSE)
-is_names <- is_names$V1[!grepl("__", is_names$V1)]
+is_names <- is_names$V1
 
 info_files <- list.files(paste0(args[2], "/"), pattern = "*_insertion_sequences_info.txt", full.names = TRUE)
 is_info <- data.frame()
