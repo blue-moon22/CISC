@@ -9,7 +9,7 @@ module load nextflow/21.04.1-5556
 module load cd-hit/4.8.1--hdbcaa40_2
 export NXF_OPTS='-Xms512M -Xmx2G'
 
-# Run PaliDIS
+# Run PaliDIS (in the current directory)
 git clone https://github.com/blue-moon22/PaliDIS.git -b v2.9.1
 cd PaliDIS
 nextflow run palidis.nf --manifest ../manifests/manifest1.txt --batch_name batch1 --cobs_index /lustre/scratch118/infgen/pathogen/pathpipe/ENA2018-bacteria-661k/661k.cobs_compact -profile farm
