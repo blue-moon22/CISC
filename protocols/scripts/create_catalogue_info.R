@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-# Check if two arguments
+# Check arguments
 args = commandArgs(trailingOnly=TRUE)
 if (length(args) != 3) {
   stop("Usage: Rscript create_cataloge_info.R <file with list of headers> <directory with insertion sequences info txt file> <output tab-delimited info file>", call.=FALSE)
