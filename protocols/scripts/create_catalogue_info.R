@@ -11,7 +11,6 @@ library(dplyr)
 
 # Combine info
 is_names <- read.delim(args[1], header = FALSE, stringsAsFactors = FALSE)
-is_names <- is_names$V1
 
 info_files <- list.files(paste0(args[2], "/"), pattern = "*_insertion_sequences_info.txt", full.names = TRUE)
 is_info <- data.frame()
@@ -24,7 +23,7 @@ for (i in 1:length(info_files)) {
 }
 
 # Remove duplicates
-is_info <- is_info[is_info$IS_name %in% is_names,]
+is_info <- is_info[is_info$IS_name %in% is_names$V1,]
 is_info <- is_info %>% select(-itr_cluster)
 is_info <- is_info[!duplicated(is_info$IS_name),]
 
