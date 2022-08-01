@@ -24,3 +24,5 @@ Header | Description
 **predicted_IS_family** | The IS family predicted from the ISfinder database if the IS is found in this database by the specified e-value of 1e-50 but under a 99% identity and alignment threshold
 **COBS_index_biosample_id** | The NCBI Biosample ID of a sequenced sample in the COBS index as specified by `--cobs_index` in the [protocol](protocols/protocol.md)
 **COBS_index_origin** | The taxonomy of the sequenced sample in the COBS index
+
+**Note:** In some insertion sequences, the ITR pairs are not identical/the same length due to technical/biological indels/substitutions.
