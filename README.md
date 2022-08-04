@@ -19,9 +19,6 @@ Header | Description
 **itr1_end_pos** | The position of the last nucleotide of the left-hand ITR sequence
 **itr2_start_pos** | The position of the first nucleotide of the right-hand ITR sequence
 **itr2_end_pos** | The position of the last nucleotide of the right-hand ITR sequence
-**ISfinder_name** | The name given in the [ISfinder database](https://github.com/blue-moon22/palidis/tree/master/db/ISfinder-sequences) if found in this database by the specified e-value threshold of 1e-50 and at least 99% identity and alignment threshold
-**ISfinder_origin** | The species origin of the IS if found and species listed in the ISfinder database
-**predicted_IS_family** | The IS family predicted from the ISfinder database if the IS is found in this database by the specified e-value of 1e-50 but under a 99% identity and alignment threshold
 **COBS_index_biosample_id** | The NCBI Biosample ID of a sequenced sample in the COBS index as specified by `--cobs_index` in the [protocol](protocols/protocol.md)
 **COBS_index_origin** | The taxonomy of the sequenced sample in the COBS index
 

@@ -34,9 +34,8 @@ is_info$itr1_end_pos <- is_info$itr1_end_position - is_info$offset
 is_info$itr2_start_pos <- is_info$itr2_start_position - is_info$offset
 is_info$itr2_end_pos <- is_info$itr2_end_position - is_info$offset
 
-is_catalog_info <- is_info %>% 
-  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos, 
-         ISfinder_name, ISfinder_origin, predicted_IS_family, 
+is_catalog_info <- is_info %>%
+  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos,  
          COB_index_biosample_id, COB_index_origin)
 
 write.table(is_catalog_info, args[3], sep = '\t', row.names = FALSE, quote = FALSE)
