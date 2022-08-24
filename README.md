@@ -14,12 +14,11 @@ The repository also contains a protocols directory which describes how each rele
 
 Header | Description
 :--- | :---
-**IS_name** | Name assigned by PaliDIS which contains the ITR cluster (see below) and length e.g. `IS_cluster_0_length_1072`
+**IS_name** | Name assigned by PaliDIS which contains the length, types of transposase and their position, e.g. `IS_length_2192_Integrase_like_catalytic_domain_superfamily_1008-1563`
 **itr1_start_pos** | The position of the first nucleotide of the left-hand Inverted Terminal Repeat (ITR) sequence
 **itr1_end_pos** | The position of the last nucleotide of the left-hand ITR sequence
 **itr2_start_pos** | The position of the first nucleotide of the right-hand ITR sequence
 **itr2_end_pos** | The position of the last nucleotide of the right-hand ITR sequence
-**COBS_index_biosample_id** | The NCBI Biosample ID of a sequenced sample in the COBS index as specified by `--cobs_index` in the [protocol](protocols/protocol.md)
-**COBS_index_origin** | The taxonomy of the sequenced sample in the COBS index
+**interpro_or_panther_accession** | Interpro or PANTHER accession for transposase
 
 **Note:** In some insertion sequences, the ITR pairs are not identical/the same length due to technical/biological indels/substitutions.

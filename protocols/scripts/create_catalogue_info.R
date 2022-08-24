@@ -34,8 +34,10 @@ is_info$itr1_end_pos <- is_info$itr1_end_position - is_info$offset
 is_info$itr2_start_pos <- is_info$itr2_start_position - is_info$offset
 is_info$itr2_end_pos <- is_info$itr2_end_position - is_info$offset
 
+is_info$COBS_index_biosample_id[is.na(is_info$COBS_index_biosample_id)] <- ''
+is_info$COBS_index_origin[is.na(is_info$COBS_index_origin)] <- ''
+
 is_catalog_info <- is_info %>%
-  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos,  
-         COB_index_biosample_id, COB_index_origin)
+  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos, interpro_or_panther_accession)
 
 write.table(is_catalog_info, args[3], sep = '\t', row.names = FALSE, quote = FALSE)
