@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1827-IPR002559_1030_1636-PTHR35604_649_1657-IPR008490_766_985	SRS050029	NODE_60_length_38270_cov_24.6879	30976	31016	32766	32802	IPR002559:Transposase, IS4-like;IPR008490:Transposase InsH, N-terminal;PTHR35604:TRANSPOSASE INSH FOR INSERTION SEQUENCE ELEMENT IS5A-RELATED

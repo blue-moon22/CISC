@@ -4,5 +4,7 @@
 .Ruserdata
 ISC.Rproj
 headers.txt
-batch*
 sandbox
+palidis
+batch*_insertion_sequences.fasta
+.DS_Store

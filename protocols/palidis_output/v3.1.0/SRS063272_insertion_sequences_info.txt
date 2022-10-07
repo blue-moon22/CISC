@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1837-IPR001959_819_1149-IPR010095_1074_1272-IPR010095_1191_1428-IPR021027_192_327-PTHR30405_219_1422	SRS063272	NODE_14_length_106589_cov_10.7551	71276	71305	73083	73112	IPR001959:Probable transposase, IS891/IS1136/IS1341;IPR010095:Transposase IS605, OrfB, C-terminal;IPR021027:Transposase, putative, helix-turn-helix domain;PTHR30405:TRANSPOSASE
+IS_length_1088-IPR001207_419_755	SRS063272	NODE_87_length_28366_cov_5.80562	26209	26238	27271	27296	IPR001207:Transposase, mutator type
