@@ -18,9 +18,10 @@ nextflow run palidis.nf --manifest manifest.txt --batch_name ../../palidis_outpu
 cat ../../palidis_output/*/*.fasta > output_insertion_sequences.fasta
 
 # Create a non-redundant catalogue
-cd-hit-est -i output_insertion_sequences.fasta -o nonred_insertion_sequences.fasta -c 0.99 -M 64000 -T 8
+cd-hit-est -i output_insertion_sequences.fasta -o nonred_insertion_sequences.fasta -c 0.95 -M 64000 -T 8
 grep '^>' nonred_insertion_sequences.fasta | sort | uniq | sed 's/>//' > headers.txt
 num=$(cat headers.txt | wc -l)
+rm ../../../insertion_sequence_catalogue.fasta
 for ((i=1;i<=${num};i++)); do is=$(sed -n "${i}p" headers.txt); grep -A1 $is nonred_insertion_sequences.fasta | head -2 >> ../../../insertion_sequence_catalogue.fasta; done
 
 # Create info for catalogue
