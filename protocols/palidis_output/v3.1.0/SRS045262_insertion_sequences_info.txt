@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1702-IPR001959_761_1148-IPR010095_1214_1433-IPR010095_1061_1295-PTHR30405_332_1445	SRS045262	NODE_11_length_92283_cov_17.2654	89486	89522	91157	91187	IPR001959:Probable transposase, IS891/IS1136/IS1341;IPR010095:Transposase IS605, OrfB, C-terminal;PTHR30405:TRANSPOSASE
+IS_length_1608-IPR013762_999_1524	SRS045262	NODE_146_length_16132_cov_15.028	8608	8637	10186	10215	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2644-IPR001207_1675_2608-IPR001207_1675_2599	SRS045262	NODE_2487_length_2724_cov_24.7014	64	96	2677	2707	IPR001207:Transposase, mutator type

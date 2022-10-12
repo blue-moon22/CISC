@@ -24,7 +24,6 @@ for (i in 1:length(info_files)) {
 
 # Remove duplicates
 is_info <- is_info[is_info$IS_name %in% is_names$V1,]
-is_info <- is_info %>% select(-itr_cluster)
 is_info <- is_info[!duplicated(is_info$IS_name),]
 
 # Clean info
@@ -34,10 +33,7 @@ is_info$itr1_end_pos <- is_info$itr1_end_position - is_info$offset
 is_info$itr2_start_pos <- is_info$itr2_start_position - is_info$offset
 is_info$itr2_end_pos <- is_info$itr2_end_position - is_info$offset
 
-is_info$COBS_index_biosample_id[is.na(is_info$COBS_index_biosample_id)] <- ''
-is_info$COBS_index_origin[is.na(is_info$COBS_index_origin)] <- ''
-
 is_catalog_info <- is_info %>%
-  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos, interpro_or_panther_accession)
+  select(IS_name, itr1_start_pos, itr1_end_pos, itr2_start_pos, itr2_end_pos, description)
 
 write.table(is_catalog_info, args[3], sep = '\t', row.names = FALSE, quote = FALSE)

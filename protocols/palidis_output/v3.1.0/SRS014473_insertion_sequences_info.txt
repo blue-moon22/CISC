@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1840-IPR008490_147_321-PTHR33408_0_1557-IPR002559_792_1539	SRS014473	NODE_4462_length_1933_cov_59.9899	5	52	1811	1844	IPR002559:Transposase, IS4-like;IPR008490:Transposase InsH, N-terminal;PTHR33408:TRANSPOSASE
+IS_length_1349-IPR001207_367_682	SRS014473	NODE_6594_length_1349_cov_619.081	1	33	1325	1349	IPR001207:Transposase, mutator type
+IS_length_1349-IPR001207_367_682	SRS014473	NODE_6594_length_1349_cov_619.081	1	26	1302	1349	IPR001207:Transposase, mutator type

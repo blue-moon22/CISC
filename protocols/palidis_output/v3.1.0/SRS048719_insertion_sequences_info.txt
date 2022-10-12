@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1442-PTHR46889_596_1019	SRS048719	NODE_81_length_18796_cov_55.945	15275	15324	16690	16716	PTHR46889:TRANSPOSASE INSF FOR INSERTION SEQUENCE IS3B-RELATED

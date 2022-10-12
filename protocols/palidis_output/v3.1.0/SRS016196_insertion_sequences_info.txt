@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1551-IPR012337_341_827-PTHR46889_65_839-IPR036397_347_830	SRS016196	NODE_2250_length_1966_cov_5.64731	31	56	1544	1581	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR46889:TRANSPOSASE INSF FOR INSERTION SEQUENCE IS3B-RELATED
