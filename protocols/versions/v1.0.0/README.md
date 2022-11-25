@@ -12,9 +12,10 @@ export NXF_OPTS='-Xms512M -Xmx2G'
 # Run PaliDIS
 git clone --recursive -j8 https://github.com/blue-moon22/palidis.git -b v3.1.0
 cd palidis
-nextflow run palidis.nf --manifest manifest.txt --batch_name ../../palidis_output/v3.1.10 -c configs/conf/sanger.config --lsf true -with-trace -w work_batch1 -resume
+nextflow run palidis.nf --manifest ../manifest.txt --batch_name ../../../palidis_output/v3.1.0 -c configs/conf/sanger.config -with-trace -w work_batch1 -resume
 
 # Merge FASTA output
+cd ..
 cat ../../palidis_output/*/*.fasta > output_insertion_sequences.fasta
 
 # Create a non-redundant catalogue

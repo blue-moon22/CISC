@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_3000-IPR002560_39_198-IPR002560_2787_2946	25076_2_3	NODE_6_length_254562_cov_283.305760	250586	250627	253544	253585	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain
+IS_length_2777-IPR002560_1_91	25076_2_3	NODE_6_length_254562_cov_283.305760	250693	250735	253436	253469	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain

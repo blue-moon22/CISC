@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1619-IPR012337_328_1321-IPR002559_502_1249-PTHR33258_376_1321	25013_2_19	k141_7405_length_66448_cov_36.9692	20608	20633	22201	22226	IPR002559:Transposase, IS4-like;IPR012337:Ribonuclease H-like superfamily;PTHR33258:TRANSPOSASE INSL FOR INSERTION SEQUENCE ELEMENT IS186A-RELATED
+IS_length_1140-IPR013762_467_1034	25013_2_19	k141_2497_length_61558_cov_18.9936	33112	33143	34220	34251	IPR013762:Integrase-like, catalytic domain superfamily

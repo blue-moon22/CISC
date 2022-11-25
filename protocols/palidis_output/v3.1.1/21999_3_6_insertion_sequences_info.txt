@@ -1,0 +1,13 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1140-IPR013762_467_1034	21999_3_6	NODE_11_length_355280_cov_10.226395	257630	257661	258738	258769	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1023-IPR013762_396_957	21999_3_6	NODE_12_length_322231_cov_67.806925	201232	201257	202224	202254	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1022-IPR013762_396_957	21999_3_6	NODE_12_length_322231_cov_67.806925	201232	201261	202224	202253	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2512-IPR013762_1319_1862	21999_3_6	NODE_21_length_230016_cov_29.228100	87452	87488	89914	89963	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2714-IPR024463_253_496-IPR039552_1564_1684-IPR004291_700_1543-IPR008878_1880_2174-IPR008878_1856_2189	21999_3_6	NODE_117_length_73376_cov_104.101608	56294	56320	58981	59007	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain;IPR039552:Transposase IS66, C-terminal
+IS_length_2956-IPR013762_1651_2176	21999_3_6	NODE_219_length_43316_cov_4.590139	12019	12047	14946	14974	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2762-IPR013762_1319_1865	21999_3_6	NODE_1090_length_8974_cov_56.404754	15	55	2733	2776	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2762-IPR013762_1319_1865	21999_3_6	NODE_1090_length_8974_cov_56.404754	15	43	2748	2776	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2598-IPR013762_873_1422	21999_3_6	NODE_1945_length_4159_cov_10.026072	783	814	3354	3380	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2664-IPR036397_1311_1902-IPR012337_1395_1797-PTHR35004_933_2271	21999_3_6	NODE_2637_length_2664_cov_31.658107	1	47	2627	2664	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR35004:TRANSPOSASE RV3428C-RELATED
+IS_length_2411-IPR013762_873_1422	21999_3_6	NODE_2814_length_2411_cov_16.093379	1	47	2371	2411	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1690-PTHR33408_123_1587-IPR008490_279_453-IPR025668_1170_1527	21999_3_6	NODE_3533_length_1690_cov_198.231804	1	48	1643	1690	IPR008490:Transposase InsH, N-terminal;IPR025668:Transposase DDE domain;PTHR33408:TRANSPOSASE

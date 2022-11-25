@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1500-IPR013762_779_1379	24211_5_15	NODE_55_length_148314_cov_16.550274	114337	114363	115810	115836	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1669-PTHR33408_203_1577-IPR008490_332_560-IPR025668_1160_1517	24211_5_15	NODE_74_length_114547_cov_65.865790	21587	21613	23229	23255	IPR008490:Transposase InsH, N-terminal;IPR025668:Transposase DDE domain;PTHR33408:TRANSPOSASE
+IS_length_2416-IPR012337_506_1328-IPR036397_485_1019	24211_5_15	NODE_311_length_16122_cov_5.253314	11282	11324	13655	13697	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily

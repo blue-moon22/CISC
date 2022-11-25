@@ -1,0 +1,5 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2916-IPR002560_6_156-IPR002560_2711_2861	25013_4_17	NODE_9_length_170563_cov_200.873103	3839	3880	6713	6754	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain
+IS_length_2808-IPR002560_7_103-IPR002560_2658_2754	25013_4_17	NODE_9_length_170563_cov_200.873103	3892	3922	6669	6699	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain
+IS_length_1050-IPR013762_363_924	25013_4_17	NODE_67_length_28560_cov_187.419435	5263	5297	6265	6312	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2030-IPR013762_890_1451	25013_4_17	NODE_67_length_28560_cov_187.419435	4763	4810	6745	6792	IPR013762:Integrase-like, catalytic domain superfamily

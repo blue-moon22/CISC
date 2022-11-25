@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2283-PTHR35404_1250_2153-IPR012337_1250_2147-IPR002559_1520_2147	21242_54	k141_569_length_2529_cov_152.3790	238	265	2493	2520	IPR002559:Transposase, IS4-like;IPR012337:Ribonuclease H-like superfamily;PTHR35404:TRANSPOSASE OF TN10

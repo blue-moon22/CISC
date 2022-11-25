@@ -1,0 +1,12 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1140-IPR013762_547_1114	21242_15	k141_1148_length_102742_cov_46.9803	33088	33119	34196	34227	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_629-IPR002686_294_432-IPR036515_291_510-IPR036515_294_450	21242_15	k141_11703_length_17625_cov_7.0000	3788	3817	4387	4416	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily
+IS_length_2750-IPR013762_1309_1843	21242_15	k141_1776_length_15058_cov_7.0000	6112	6140	8833	8861	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2975-IPR013762_1391_1961	21242_15	k141_6606_length_12129_cov_5.0000	8901	8932	11844	11875	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2743-IPR013762_1304_1844	21242_15	k141_10777_length_9753_cov_6.0000	362	387	3073	3104	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1322-IPR002559_340_1045-PTHR30298_55_1141	21242_15	k141_10061_length_6400_cov_6.9789	178	206	1471	1499	IPR002559:Transposase, IS4-like;PTHR30298:H REPEAT-ASSOCIATED PREDICTED TRANSPOSASE
+IS_length_1502-IPR013762_497_1022	21242_15	k141_1792_length_2393_cov_259.6066	780	805	2241	2281	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1534-IPR013762_513_1038	21242_15	k141_1792_length_2393_cov_259.6066	764	805	2256	2297	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2393-IPR013762_1235_1784	21242_15	k141_8847_length_2393_cov_56.0000	1	48	2346	2393	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1862-IPR013762_1011_1545	21242_15	k141_11616_length_1862_cov_71.0000	1	40	1822	1862	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1022-IPR013762_353_914	21242_15	k141_7186_length_1254_cov_12.5256	117	146	1109	1138	IPR013762:Integrase-like, catalytic domain superfamily

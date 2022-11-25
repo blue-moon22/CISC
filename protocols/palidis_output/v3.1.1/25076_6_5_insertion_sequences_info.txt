@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2479-IPR017894_972_1116-IPR012337_1386_1644-PTHR35004_978_2133-IPR036397_1377_1731	25076_6_5	NODE_1867_length_2506_cov_24.252550	15	49	2459	2493	IPR012337:Ribonuclease H-like superfamily;IPR017894:HTH domain, IS21 transposase-type;IPR036397:Ribonuclease H superfamily;PTHR35004:TRANSPOSASE RV3428C-RELATED

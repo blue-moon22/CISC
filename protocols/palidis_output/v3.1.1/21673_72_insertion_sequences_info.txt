@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1462-PTHR33498_97_1318-IPR029261_145_262-IPR002560_502_1285	21673_72	k141_2350_length_2705_cov_8.0000	1087	1115	2520	2548	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain;IPR029261:Transposase IS204/IS1001/IS1096/IS1165, zinc-finger;PTHR33498:TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557

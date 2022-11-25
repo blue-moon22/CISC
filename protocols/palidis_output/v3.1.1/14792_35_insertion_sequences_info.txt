@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1490-IPR003346_513_642	14792_35	NODE_692_length_1528_cov_3.389681	20	53	1476	1509	IPR003346:Transposase, IS116/IS110/IS902
+IS_length_1528-IPR003346_532_661	14792_35	NODE_692_length_1528_cov_3.389681	1	30	1489	1528	IPR003346:Transposase, IS116/IS110/IS902

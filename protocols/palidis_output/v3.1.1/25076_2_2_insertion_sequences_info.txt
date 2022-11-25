@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1792-IPR012337_908_1094	25076_2_2	NODE_17_length_99072_cov_356.857398	255	291	2001	2046	IPR012337:Ribonuclease H-like superfamily
+IS_length_1808-IPR012337_913_1099	25076_2_2	NODE_17_length_99072_cov_356.857398	250	285	2017	2057	IPR012337:Ribonuclease H-like superfamily
+IS_length_1424-IPR012337_76_262	25076_2_2	NODE_17_length_99072_cov_356.857398	1087	1115	2485	2510	IPR012337:Ribonuclease H-like superfamily

@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1846-IPR025668_1310_1685-PTHR33408_164_1742-IPR008490_317_524	22607_2_7	k141_3080_length_253392_cov_142.0757	222016	222045	223830	223861	IPR008490:Transposase InsH, N-terminal;IPR025668:Transposase DDE domain;PTHR33408:TRANSPOSASE
+IS_length_1179-IPR024445_439_988-IPR024445_439_988-IPR024442_97_226	22607_2_7	k141_6801_length_51468_cov_155.8671	3365	3390	4518	4543	IPR024442:Transposase, zinc-ribbon;IPR024445:ISXO2-like transposase domain

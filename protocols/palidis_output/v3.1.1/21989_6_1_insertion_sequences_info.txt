@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2758-IPR021027_114_204-IPR021027_2663_2753	21989_6_1	NODE_13_length_305369_cov_36.120987	77165	77206	79888	79922	IPR021027:Transposase, putative, helix-turn-helix domain
+IS_length_2832-IPR021027_116_239-IPR021027_2701_2824	21989_6_1	NODE_13_length_305369_cov_36.120987	77127	77161	79930	79958	IPR021027:Transposase, putative, helix-turn-helix domain
+IS_length_2952-IPR021027_116_260-IPR021027_2758_2902	21989_6_1	NODE_13_length_305369_cov_36.120987	77070	77098	79987	80021	IPR021027:Transposase, putative, helix-turn-helix domain
