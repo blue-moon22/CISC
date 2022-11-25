@@ -1,0 +1,9 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1919-IPR013762_850_1465	21127_6_2	NODE_10_length_306884_cov_45.007434	206830	206870	208708	208748	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1683-IPR013762_740_1355	21127_6_2	NODE_10_length_306884_cov_45.007434	206940	206987	208591	208622	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1875-IPR013762_828_1443	21127_6_2	NODE_10_length_306884_cov_45.007434	206852	206877	208689	208726	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1220-PTHR46889_45_801-IPR036397_336_813-IPR012337_327_804-IPR002514_875_1079	21127_6_2	NODE_46_length_156482_cov_8.144988	4104	4144	5283	5323	IPR002514:Transposase IS3/IS911family;IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR46889:TRANSPOSASE INSF FOR INSERTION SEQUENCE IS3B-RELATED
+IS_length_969-IPR012337_611_842-IPR036397_614_848	21127_6_2	NODE_74_length_112968_cov_136.563761	25771	25797	26713	26739	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily
+IS_length_2747-IPR013762_1304_1844	21127_6_2	NODE_415_length_8734_cov_54.959097	30	55	2741	2776	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2931-IPR013762_1678_2149	21127_6_2	NODE_462_length_7588_cov_51.735564	2344	2378	5240	5274	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2781-IPR013762_1603_2074	21127_6_2	NODE_462_length_7588_cov_51.735564	2419	2450	5158	5199	IPR013762:Integrase-like, catalytic domain superfamily

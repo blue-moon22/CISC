@@ -1,0 +1,6 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1422-IPR012337_62_347	25013_1_7	NODE_31_length_99073_cov_343.308186	1089	1115	2461	2510	IPR012337:Ribonuclease H-like superfamily
+IS_length_729-IPR002686_177_480-IPR002686_159_489-IPR036515_135_627-IPR036515_135_507-PTHR36966_141_549	25013_1_7	NODE_68_length_51479_cov_18.411384	8609	8640	9306	9337	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE
+IS_length_2484-IPR013762_1310_1853	25013_1_7	NODE_524_length_9298_cov_2.249486	6786	6811	9244	9269	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2393-IPR013762_1235_1784	25013_1_7	NODE_1804_length_2400_cov_23.823028	1	48	2346	2393	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1862-IPR013762_1011_1545	25013_1_7	NODE_2146_length_1862_cov_25.968456	1	40	1822	1862	IPR013762:Integrase-like, catalytic domain superfamily

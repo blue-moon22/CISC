@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1806-PTHR33609:SF1_458_719-IPR002514_461_671-PTHR47515:SF1_760_1561-IPR036397_1054_1525-IPR012337_1048_1528	23430_8_23	NODE_448_length_1850_cov_10.745404	23	55	1796	1828	IPR002514:Transposase IS3/IS911family;IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR33609:SF1:TRANSPOSASE-RELATED;PTHR47515:SF1:TRUNCATED IS1477 TRANSPOSASE

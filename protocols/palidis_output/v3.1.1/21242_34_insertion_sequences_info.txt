@@ -1,0 +1,5 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2593-IPR003346_440_569-IPR002560_1868_2588-PTHR33498_1859_2588	21242_34	NODE_75_length_67224_cov_36.621150	34783	34818	37340	37375	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain;IPR003346:Transposase, IS116/IS110/IS902;PTHR33498:TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557
+IS_length_1040-IPR013762_361_922	21242_34	NODE_380_length_5238_cov_75.791434	1	38	1001	1040	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1040-IPR013762_361_922	21242_34	NODE_380_length_5238_cov_75.791434	1	34	994	1040	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1895-IPR026889_1500_1740	21242_34	NODE_541_length_1917_cov_115.033298	11	56	1864	1905	IPR026889:Transposase zinc-binding domain

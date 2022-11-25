@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1797-IPR012337_908_1094	21940_3_17	k141_3212_length_99312_cov_188.9166	341	387	2106	2137	IPR012337:Ribonuclease H-like superfamily
+IS_length_2538-IPR002686_2027_2357-PTHR36966_2009_2420-IPR036515_2003_2489-IPR036515_2003_2375	21940_3_17	k141_7956_length_88057_cov_89.4889	25616	25649	28116	28153	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE

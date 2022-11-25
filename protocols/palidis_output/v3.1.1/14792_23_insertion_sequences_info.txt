@@ -1,0 +1,5 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1497-IPR013762_881_1406	14792_23	NODE_10_length_249226_cov_218.421381	225883	225916	227346	227379	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_2543-PTHR35004_1637_1991	14792_23	NODE_49_length_148919_cov_7.118047	122885	122910	125402	125427	PTHR35004:TRANSPOSASE RV3428C-RELATED
+IS_length_2502-IPR013762_1328_1871	14792_23	NODE_613_length_2513_cov_6.960537	12	55	2488	2513	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_973-IPR025668_426_831	14792_23	NODE_1267_length_1069_cov_2.617357	38	63	977	1010	IPR025668:Transposase DDE domain

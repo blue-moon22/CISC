@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1140-IPR013762_547_1114	21842_1_6	NODE_9_length_372604_cov_176.939790	96514	96545	97622	97653	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_663-PTHR36966_87_498-IPR002686_123_426-IPR002686_105_435-IPR036515_81_453-IPR036515_81_567	21842_1_6	NODE_11_length_326304_cov_6.481402	95969	96004	96598	96631	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE
+IS_length_1350-IPR001207_347_599	21842_1_6	NODE_1021_length_3914_cov_5.602488	2302	2327	3624	3651	IPR001207:Transposase, mutator type

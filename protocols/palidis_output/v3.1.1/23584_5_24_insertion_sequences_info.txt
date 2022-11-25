@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1621-IPR001207_463_775	23584_5_24	NODE_5_length_477952_cov_17.069664	81971	81996	83566	83591	IPR001207:Transposase, mutator type
+IS_length_1180-IPR002559_412_904-PTHR37529_31_931-IPR012337_361_919-IPR024473_82_355	23584_5_24	NODE_12_length_299788_cov_103.159906	128046	128081	129190	129225	IPR002559:Transposase, IS4-like;IPR012337:Ribonuclease H-like superfamily;IPR024473:Transposase, IS4, N-terminal;PTHR37529:TRANSPOSASE INSG FOR INSERTION SEQUENCE ELEMENT IS4-RELATED

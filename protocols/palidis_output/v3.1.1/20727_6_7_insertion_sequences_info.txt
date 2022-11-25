@@ -1,0 +1,4 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1108-IPR013762_475_1036	20727_6_7	NODE_12_length_255384_cov_65.255423	4254	4288	5333	5361	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1102-IPR013762_469_1030	20727_6_7	NODE_12_length_255384_cov_65.255423	4260	4288	5331	5361	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_833-IPR002686_174_477-IPR002686_156_486-IPR036515_132_624-IPR036515_132_504-PTHR36966_138_546	20727_6_7	NODE_243_length_24567_cov_8.770643	7660	7689	8458	8492	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE

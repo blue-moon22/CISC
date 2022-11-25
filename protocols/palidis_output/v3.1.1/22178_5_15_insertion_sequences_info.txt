@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1905-IPR012337_1375_1816-IPR036397_1357_1825	22178_5_15	NODE_150_length_20312_cov_9.308585	8294	8328	10161	10198	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily
+IS_length_1893-IPR010095_63_216-PTHR30405_69_222	22178_5_15	NODE_222_length_9684_cov_195.108942	5645	5692	7490	7537	IPR010095:Transposase IS605, OrfB, C-terminal;PTHR30405:TRANSPOSASE

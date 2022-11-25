@@ -1,0 +1,5 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2360-IPR013762_1104_1671	22607_2_1	NODE_6_length_289723_cov_172.095820	234458	234506	236769	236817	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1140-IPR013762_467_1034	22607_2_1	NODE_6_length_289723_cov_172.095820	235095	235126	236203	236234	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1039-IPR013762_404_965	22607_2_1	NODE_16_length_140001_cov_181.926936	5314	5360	6314	6352	IPR013762:Integrase-like, catalytic domain superfamily
+IS_length_1323-IPR001207_295_601	22607_2_1	NODE_2113_length_1323_cov_391.168770	1	26	1298	1323	IPR001207:Transposase, mutator type

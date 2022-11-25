@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_887-IPR025668_56_290-PTHR33408_41_353	21523_4_19	NODE_328_length_3847_cov_318.001319	297	338	1142	1183	IPR025668:Transposase DDE domain;PTHR33408:TRANSPOSASE
+IS_length_1385-IPR001207_608_917	21523_4_19	NODE_555_length_1385_cov_128.402256	1	50	1357	1385	IPR001207:Transposase, mutator type

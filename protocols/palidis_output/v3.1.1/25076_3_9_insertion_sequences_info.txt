@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1854-IPR001207_84_741-IPR001207_81_741-IPR001207_390_462-IPR001207_822_1119-IPR001207_798_1119-PTHR33217:SF5_822_1119	25076_3_9	NODE_12_length_347126_cov_11.368645	52453	52501	54261	54306	IPR001207:Transposase, mutator type;PTHR33217:SF5:MUTATOR FAMILY TRANSPOSASE

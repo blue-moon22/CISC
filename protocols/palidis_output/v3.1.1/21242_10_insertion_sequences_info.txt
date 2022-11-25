@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2366-IPR004291_627_1464-IPR024474_441_567-IPR024463_195_408-IPR008878_1757_2078-IPR008878_1781_2072	21242_10	NODE_154_length_2366_cov_1069.154046	1	40	2340	2366	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain;IPR024474:Transposase IS66, zinc-finger binding domain of

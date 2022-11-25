@@ -12,7 +12,7 @@ library(dplyr)
 # Combine info
 is_names <- read.delim(args[1], header = FALSE, stringsAsFactors = FALSE)
 
-info_files <- list.files(paste0(args[2], "/"), pattern = "*_insertion_sequences_info.txt", full.names = TRUE)
+info_files <- list.files(paste0(args[2], "/"), pattern = "*_insertion_sequences_info.txt", full.names = TRUE, recursive=TRUE)
 is_info <- data.frame()
 for (i in 1:length(info_files)) {
   info = file.info(info_files[i])

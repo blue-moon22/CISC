@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1496-IPR036397_945_1470-IPR001598_1284_1332-PTHR10948_321_1059-PTHR10948_1116_1455-IPR025246_321_450-IPR012337_957_1458	24211_3_16	NODE_15_length_69912_cov_140.823339	68359	68402	69811	69854	IPR001598:Transposase, IS30, conserved site;IPR012337:Ribonuclease H-like superfamily;IPR025246:Transposase IS30-like HTH domain;IPR036397:Ribonuclease H superfamily;PTHR10948:TRANSPOSASE

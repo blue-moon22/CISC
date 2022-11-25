@@ -1,0 +1,2 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_1419-IPR002513_153_1263	23430_6_8	k141_573_length_1637_cov_227.1471	110	141	1500	1528	IPR002513:Tn3 transposase DDE domain

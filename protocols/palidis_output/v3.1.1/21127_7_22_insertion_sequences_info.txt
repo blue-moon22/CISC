@@ -1,0 +1,3 @@
+IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
+IS_length_2287-IPR002559_382_877	21127_7_22	NODE_28_length_87854_cov_123.386804	9305	9338	11547	11591	IPR002559:Transposase, IS4-like
+IS_length_2338-IPR002559_412_907	21127_7_22	NODE_28_length_87854_cov_123.386804	9275	9304	11583	11612	IPR002559:Transposase, IS4-like
