@@ -5,8 +5,6 @@
 ## About
 This repository contains a catalogue of insertion sequences in FASTA format generated using [palidis](https://github.com/blue-moon22/palidis) and its accompanying information.
 
-It is currently recommended to only query this catalogue with genomes sourced from human oral and gut samples.
-
 The repository also contains a protocols directory which describes how each release of the catalogue was generated from the output of palidis.
 
 ### Catalogue information
