@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2474-IPR013762_1100_1667	20596_5_9	NODE_13_length_281812_cov_89.451939	32575	32620	35003	35048	IPR013762:Integrase-like, catalytic domain superfamily

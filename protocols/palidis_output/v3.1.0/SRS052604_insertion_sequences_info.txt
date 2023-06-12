@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2670-PTHR35004_199_1327-IPR036397_595_1117-IPR012337_661_1075	SRS052604	NODE_956_length_6742_cov_8.5231	55	86	2693	2724	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR35004:TRANSPOSASE RV3428C-RELATED
-IS_length_1839-IPR013762_607_1132	SRS052604	NODE_2581_length_3689_cov_5.39158	585	610	2398	2423	IPR013762:Integrase-like, catalytic domain superfamily

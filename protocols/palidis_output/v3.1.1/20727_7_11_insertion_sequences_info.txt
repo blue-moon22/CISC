@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1769-IPR012337_1101_1557-PTHR10948_711_1515-IPR036397_1095_1566	20727_7_11	NODE_174_length_1893_cov_3.215452	55	98	1785	1823	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR10948:TRANSPOSASE
-IS_length_1402-PTHR46889_64_862-IPR036397_376_868-IPR012337_364_871	20727_7_11	NODE_286_length_1526_cov_3.012916	72	99	1447	1473	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR46889:TRANSPOSASE INSF FOR INSERTION SEQUENCE IS3B-RELATED

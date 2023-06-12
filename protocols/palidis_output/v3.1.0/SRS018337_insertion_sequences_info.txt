@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1134-IPR024445_21_450-IPR024445_21_447-IPR024442_679_817	SRS018337	NODE_8028_length_1578_cov_2.56074	276	308	1377	1409	IPR024442:Transposase, zinc-ribbon;IPR024445:ISXO2-like transposase domain
-IS_length_1453-IPR036397_66_510-IPR012337_72_483	SRS018337	NODE_9030_length_1466_cov_10.3381	2	30	1424	1454	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily

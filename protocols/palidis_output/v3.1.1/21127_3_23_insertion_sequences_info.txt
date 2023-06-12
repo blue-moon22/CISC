@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1462-PTHR37529_37_1348-IPR012337_361_1264-IPR002559_412_1084-IPR024473_82_355	21127_3_23	NODE_9_length_312108_cov_48.757202	126622	126657	128048	128083	IPR002559:Transposase, IS4-like;IPR012337:Ribonuclease H-like superfamily;IPR024473:Transposase, IS4, N-terminal;PTHR37529:TRANSPOSASE INSG FOR INSERTION SEQUENCE ELEMENT IS4-RELATED

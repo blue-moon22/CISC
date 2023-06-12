@@ -1,5 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1022-IPR013762_380_941	20596_5_11	NODE_2_length_645383_cov_8.801840	131350	131379	132342	132371	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2484-IPR013762_1290_1836	20596_5_11	NODE_18_length_237688_cov_80.949039	187223	187270	189671	189706	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2801-IPR013762_1547_2093	20596_5_11	NODE_171_length_51007_cov_101.763326	11173	11215	13931	13973	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1462-IPR002560_762_1404-PTHR33498_753_1377	20596_5_11	NODE_428_length_15999_cov_88.903788	14466	14496	15897	15927	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain;PTHR33498:TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557

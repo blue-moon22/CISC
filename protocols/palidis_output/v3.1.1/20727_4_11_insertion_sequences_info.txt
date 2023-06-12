@@ -1,5 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2502-IPR013762_1270_1813	20727_4_11	NODE_221_length_7350_cov_260.318437	4849	4892	7325	7350	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_976-IPR005063_113_503	20727_4_11	NODE_335_length_5402_cov_82.166261	1928	1959	2872	2903	IPR005063:Transposase, IS1
-IS_length_962-IPR005063_108_498	20727_4_11	NODE_335_length_5402_cov_82.166261	1933	1972	2860	2894	IPR005063:Transposase, IS1
-IS_length_887-IPR005063_108_462	20727_4_11	NODE_335_length_5402_cov_82.166261	1972	2019	2812	2858	IPR005063:Transposase, IS1

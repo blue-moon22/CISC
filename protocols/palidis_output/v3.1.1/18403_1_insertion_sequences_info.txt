@@ -1,5 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1860-IPR012337_942_1128	18403_1	NODE_64_length_98962_cov_111.232107	221	248	2053	2080	IPR012337:Ribonuclease H-like superfamily
-IS_length_1421-IPR012337_62_347	18403_1	NODE_64_length_98962_cov_111.232107	1089	1115	2461	2509	IPR012337:Ribonuclease H-like superfamily
-IS_length_1355-IPR036397_431_1163-IPR012337_836_1094-IPR038717_827_995-IPR002492_314_515	18403_1	NODE_686_length_3144_cov_2.694399	1050	1076	2378	2404	IPR002492:Transposase, Tc1-like;IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;IPR038717:Tc1-like transposase, DDE domain
-IS_length_1835-PTHR35004_919_1525	18403_1	NODE_2431_length_1856_cov_42.977790	11	55	1802	1845	PTHR35004:TRANSPOSASE RV3428C-RELATED

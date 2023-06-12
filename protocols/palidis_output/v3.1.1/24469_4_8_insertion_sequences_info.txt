@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1346-IPR002560_176_878-PTHR33498_38_902	24469_4_8	NODE_585_length_1346_cov_497.907823	1	31	1309	1346	IPR002560:Transposase IS204/IS1001/IS1096/IS1165, DDE domain;PTHR33498:TRANSPOSASE FOR INSERTION SEQUENCE ELEMENT IS1557

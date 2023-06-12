@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2114-IPR025668_557_677	SRS013239	NODE_1373_length_3035_cov_8.35369	859	888	2940	2972	IPR025668:Transposase DDE domain

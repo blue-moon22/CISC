@@ -1,4 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1629-IPR001207_685_997	24469_2_23	NODE_5_length_264609_cov_400.268985	62837	62863	64439	64465	IPR001207:Transposase, mutator type
-IS_length_2147-IPR002559_924_1722-IPR012337_1023_1731	24469_2_23	NODE_23_length_152459_cov_27.819480	923	948	3043	3069	IPR002559:Transposase, IS4-like;IPR012337:Ribonuclease H-like superfamily
-IS_length_1460-IPR013762_528_1158	24469_2_23	NODE_94_length_37810_cov_37.490293	28936	28968	30363	30395	IPR013762:Integrase-like, catalytic domain superfamily

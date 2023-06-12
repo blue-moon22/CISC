@@ -1,7 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_970-IPR025668_276_672	20727_4_13	NODE_60_length_95103_cov_4.523409	43877	43924	44820	44846	IPR025668:Transposase DDE domain
-IS_length_2490-IPR013762_1310_1853	20727_4_13	NODE_1129_length_7350_cov_208.448389	1	26	2459	2490	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1044-IPR013762_364_925	20727_4_13	NODE_2234_length_2653_cov_5.899153	20	60	1023	1063	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2378-IPR024474_1102_1234-IPR024463_868_1072-IPR004291_1294_2125	20727_4_13	NODE_2401_length_2378_cov_18.440379	1	26	2353	2378	IPR004291:Transposase IS66, central domain;IPR024463:Transposase TnpC, homeodomain;IPR024474:Transposase IS66, zinc-finger binding domain of
-IS_length_1570-IPR001207_478_739	20727_4_13	NODE_3134_length_1570_cov_103.364356	1	45	1545	1570	IPR001207:Transposase, mutator type
-IS_length_1382-IPR012337_322_733-PTHR33317:SF1_325_742	20727_4_13	NODE_3373_length_1393_cov_8.149477	7	52	1343	1388	IPR012337:Ribonuclease H-like superfamily;PTHR33317:SF1:POLYNUCLEOTIDYL TRANSFERASE, RIBONUCLEASE H-LIKE SUPERFAMILY PROTEIN

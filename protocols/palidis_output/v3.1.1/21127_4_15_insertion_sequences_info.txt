@@ -1,4 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2538-IPR013762_1319_1859	21127_4_15	NODE_8_length_352383_cov_106.556311	248360	248405	250852	250897	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2371-IPR008878_284_554-IPR024463_829_1090-IPR004291_1273_2116	21127_4_15	NODE_2200_length_2371_cov_1140.770294	1	26	2326	2371	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain
-IS_length_2371-IPR008878_284_554-IPR024463_829_1090-IPR004291_1273_2116	21127_4_15	NODE_2200_length_2371_cov_1140.770294	1	26	2326	2371	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain

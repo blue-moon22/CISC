@@ -1,4 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1052-IPR002622_106_424	SRS012985	NODE_865_length_4059_cov_87.0999	186	211	1190	1237	IPR002622:Transposase, Synechocystis PCC 6803
-IS_length_1091-IPR001207_148_394	SRS012985	NODE_2560_length_1346_cov_5.23238	115	141	1179	1205	IPR001207:Transposase, mutator type
-IS_length_1273-IPR025246_60_189-IPR036397_684_1140-PTHR10948_744_1122-IPR012337_696_1116	SRS012985	NODE_2604_length_1316_cov_138.538	27	76	1265	1299	IPR012337:Ribonuclease H-like superfamily;IPR025246:Transposase IS30-like HTH domain;IPR036397:Ribonuclease H superfamily;PTHR10948:TRANSPOSASE

@@ -1,4 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2012-IPR012337_996_1182	21842_1_14	NODE_28_length_99044_cov_282.473497	167	193	2151	2178	IPR012337:Ribonuclease H-like superfamily
-IS_length_1589-IPR012337_808_994	21842_1_14	NODE_28_length_99044_cov_282.473497	355	400	1908	1943	IPR012337:Ribonuclease H-like superfamily
-IS_length_1359-IPR001207_824_983	21842_1_14	NODE_1351_length_1604_cov_2.887669	156	183	1487	1514	IPR001207:Transposase, mutator type

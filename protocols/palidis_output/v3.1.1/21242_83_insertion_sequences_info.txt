@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1353-IPR002513_223_493	21242_83	k141_2745_length_27223_cov_8.7587	12632	12670	13947	13984	IPR002513:Tn3 transposase DDE domain
-IS_length_583-PTHR36966_44_455-IPR036515_38_524-IPR036515_38_410-IPR002686_80_383-IPR002686_62_392	21242_83	k141_7087_length_4159_cov_7.0000	2994	3025	3539	3576	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE

@@ -1,5 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2354-IPR013762_1056_1623	24211_2_8	NODE_25_length_175923_cov_85.619021	62931	62960	65255	65284	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2284-IPR013762_1021_1588	24211_2_8	NODE_25_length_175923_cov_85.619021	62966	63001	65214	65249	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2278-IPR013762_1018_1585	24211_2_8	NODE_25_length_175923_cov_85.619021	62969	63010	65205	65246	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1020-IPR036397_430_907-PTHR42648_109_904-IPR012337_433_898	24211_2_8	NODE_31_length_137663_cov_75.262630	20375	20401	21352	21394	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR42648:TRANSPOSASE, PUTATIVE-RELATED

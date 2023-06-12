@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1803-IPR036397_554_1229	21673_12	k141_7480_length_1803_cov_29.0000	1	44	1760	1803	IPR036397:Ribonuclease H superfamily

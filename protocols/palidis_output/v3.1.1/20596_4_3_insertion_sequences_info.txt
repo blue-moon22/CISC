@@ -1,6 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2085-IPR012337_890_1076	20596_4_3	NODE_66_length_99072_cov_222.596696	96859	96899	98903	98943	IPR012337:Ribonuclease H-like superfamily
-IS_length_1788-IPR012337_720_906	20596_4_3	NODE_66_length_99072_cov_222.596696	97029	97076	98769	98816	IPR012337:Ribonuclease H-like superfamily
-IS_length_2430-IPR013762_1062_1632	20596_4_3	NODE_71_length_95965_cov_75.958597	51813	51849	54207	54242	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2295-IPR002513_1110_2172	20596_4_3	NODE_390_length_10378_cov_27.260002	5430	5479	7675	7724	IPR002513:Tn3 transposase DDE domain
-IS_length_1350-IPR001207_540_726-IPR001207_633_705	20596_4_3	NODE_755_length_4869_cov_11.710636	1798	1830	3121	3147	IPR001207:Transposase, mutator type

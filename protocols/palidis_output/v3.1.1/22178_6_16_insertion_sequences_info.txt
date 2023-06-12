@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2445-IPR008878_375_675-IPR008878_351_690-IPR004291_1316_2183	22178_6_16	NODE_103_length_38879_cov_6.089867	91	116	2510	2535	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2
-IS_length_2371-IPR008878_284_554-IPR004291_1273_2116-IPR024463_829_1090	22178_6_16	NODE_853_length_2371_cov_16.329016	1	26	2346	2371	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain

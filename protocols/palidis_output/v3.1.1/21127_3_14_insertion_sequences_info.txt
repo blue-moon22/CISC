@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1350-IPR001207_462_534-IPR001207_369_555	21127_3_14	NODE_252_length_6138_cov_4.657570	767	796	2087	2116	IPR001207:Transposase, mutator type

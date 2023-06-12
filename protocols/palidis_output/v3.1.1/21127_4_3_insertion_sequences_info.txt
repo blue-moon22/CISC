@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1597-IPR025668_961_1318-IPR008490_160_382-PTHR33408_52_1345	21127_4_3	NODE_351_length_7673_cov_11.777632	1062	1092	2628	2658	IPR008490:Transposase InsH, N-terminal;IPR025668:Transposase DDE domain;PTHR33408:TRANSPOSASE

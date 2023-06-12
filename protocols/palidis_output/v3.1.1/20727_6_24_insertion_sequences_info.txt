@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_665-PTHR36966_97_508-IPR036515_91_577-IPR036515_91_463-IPR002686_115_445	20727_6_24	NODE_137_length_57447_cov_6.211423	27752	27786	28383	28416	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR36966:REP-ASSOCIATED TYROSINE TRANSPOSASE

@@ -1,2 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1267-IPR036515_342_807-IPR036515_342_726-IPR002686_366_708-IPR002686_378_702-PTHR34322_342_780	19646_4_4	NODE_1566_length_2737_cov_2.369128	464	493	1693	1730	IPR002686:Transposase IS200-like;IPR036515:Transposase IS200-like superfamily;PTHR34322:TRANSPOSASE, Y1_TNP DOMAIN-CONTAINING

@@ -1,6 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_2714-IPR008878_498_792-IPR008878_474_807-IPR024463_1063_1306-IPR039552_2374_2494-IPR004291_1510_2353	21673_44	NODE_158_length_37508_cov_30.755988	21706	21732	24393	24419	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain;IPR039552:Transposase IS66, C-terminal
-IS_length_2507-IPR013762_1292_1841	21673_44	NODE_292_length_17128_cov_9.068822	597	625	3075	3103	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2393-IPR013762_1235_1784	21673_44	NODE_292_length_17128_cov_9.068822	654	701	2999	3046	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2607-PTHR35004_883_2137-IPR012337_1330_1774-IPR036397_1336_1822	21673_44	NODE_1115_length_2607_cov_30.256270	1	28	2580	2607	IPR012337:Ribonuclease H-like superfamily;IPR036397:Ribonuclease H superfamily;PTHR35004:TRANSPOSASE RV3428C-RELATED
-IS_length_2371-IPR008878_284_554-IPR024463_829_1090-IPR004291_1273_2116	21673_44	NODE_1198_length_2371_cov_8.883420	1	26	2346	2371	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain

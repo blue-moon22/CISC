@@ -1,4 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1098-IPR013762_508_1069	21523_4_13	NODE_13_length_251323_cov_183.310517	1	27	1071	1098	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2545-PTHR35004_1629_2328	21523_4_13	NODE_120_length_39147_cov_3.572905	16321	16347	18840	18865	PTHR35004:TRANSPOSASE RV3428C-RELATED
-IS_length_2384-IPR004291_103_808-IPR008878_1998_2268	21523_4_13	NODE_1399_length_2532_cov_2.547436	94	120	2452	2477	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2

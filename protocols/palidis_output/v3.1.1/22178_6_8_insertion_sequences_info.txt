@@ -1,5 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1347-IPR036397_359_524	22178_6_8	NODE_1701_length_7547_cov_24.474773	3	50	1305	1349	IPR036397:Ribonuclease H superfamily
-IS_length_1632-IPR038717_1054_1324-IPR036397_706_1426	22178_6_8	NODE_3327_length_4562_cov_8.343909	2726	2765	4320	4357	IPR036397:Ribonuclease H superfamily;IPR038717:Tc1-like transposase, DDE domain
-IS_length_1644-IPR036397_1081_1231	22178_6_8	NODE_3719_length_4080_cov_12.606708	1293	1325	2900	2936	IPR036397:Ribonuclease H superfamily
-IS_length_2513-IPR024445_1909_2098	22178_6_8	NODE_5438_length_2550_cov_11.705411	18	55	2497	2530	IPR024445:ISXO2-like transposase domain

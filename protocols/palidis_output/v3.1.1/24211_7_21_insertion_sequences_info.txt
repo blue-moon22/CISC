@@ -1,8 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_775-IPR013762_82_637	24211_7_21	k141_29968_length_173091_cov_19.0099	736	765	1481	1510	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2102-IPR013762_1513_2074	24211_7_21	k141_32156_length_45804_cov_105.1674	40835	40862	42903	42936	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2087-IPR013762_1499_2060	24211_7_21	k141_32156_length_45804_cov_105.1674	40843	40868	42903	42929	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_763-IPR013762_70_619	24211_7_21	k141_9744_length_28123_cov_19.0861	854	883	1587	1616	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1462-IPR013762_729_1362	24211_7_21	k141_33192_length_25096_cov_18.9683	21108	21144	22533	22569	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1157-IPR024445_3_327	24211_7_21	k141_17607_length_3309_cov_4.0000	2067	2092	3198	3223	IPR024445:ISXO2-like transposase domain
-IS_length_2219-IPR013762_1013_1577	24211_7_21	k141_5449_length_3424_cov_19.8727	641	690	2810	2859	IPR013762:Integrase-like, catalytic domain superfamily

@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1320-IPR001207_347_599	22178_5_14	NODE_164_length_49634_cov_4.518990	47912	47951	49205	49231	IPR001207:Transposase, mutator type
-IS_length_1893-IPR010095_1617_1770-PTHR30405_1623_1776	22178_5_14	NODE_348_length_9561_cov_299.706080	585	632	2430	2477	IPR010095:Transposase IS605, OrfB, C-terminal;PTHR30405:TRANSPOSASE

@@ -1,9 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_691-IPR036515_54_285	25076_5_4	NODE_30_length_182604_cov_12.738591	118009	118035	118673	118699	IPR036515:Transposase IS200-like superfamily
-IS_length_1956-IPR013762_842_1403	25076_5_4	NODE_51_length_145143_cov_62.446550	11575	11610	13495	13530	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2079-IPR013762_769_1330	25076_5_4	NODE_146_length_72784_cov_20.397421	4850	4879	6901	6928	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1099-IPR013762_385_946	25076_5_4	NODE_146_length_72784_cov_20.397421	5330	5357	6401	6428	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2810-IPR013762_1309_1831	25076_5_4	NODE_972_length_7669_cov_13.414762	2413	2458	5177	5222	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_2579-IPR024463_254_485-IPR004291_689_1532-IPR008878_1823_2105-IPR008878_1799_2141	25076_5_4	NODE_2505_length_2785_cov_5.816484	207	237	2758	2785	IPR004291:Transposase IS66, central domain;IPR008878:Transposase IS66, Orf2;IPR024463:Transposase TnpC, homeodomain
-IS_length_1862-IPR013762_1011_1545	25076_5_4	NODE_3623_length_1862_cov_81.770891	1	44	1822	1862	IPR013762:Integrase-like, catalytic domain superfamily
-IS_length_1349-IPR001207_520_769	25076_5_4	NODE_4934_length_1349_cov_6.044049	1	25	1325	1349	IPR001207:Transposase, mutator type

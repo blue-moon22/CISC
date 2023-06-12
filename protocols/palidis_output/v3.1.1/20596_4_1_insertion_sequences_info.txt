@@ -1,3 +1,0 @@
-IS_name	sample_id	contig	itr1_start_position	itr1_end_position	itr2_start_position	itr2_end_position	description
-IS_length_1254-IPR001598_354_402-IPR036397_81_519-PTHR10948_27_531-IPR012337_72_510-IPR025246_794_914-PTHR10948_788_1094	20596_4_1	NODE_16_length_321358_cov_36.224922	10300	10328	11525	11553	IPR001598:Transposase, IS30, conserved site;IPR012337:Ribonuclease H-like superfamily;IPR025246:Transposase IS30-like HTH domain;IPR036397:Ribonuclease H superfamily;PTHR10948:TRANSPOSASE
-IS_length_884-IPR013762_316_871	20596_4_1	NODE_1113_length_2567_cov_2.453822	362	394	1213	1245	IPR013762:Integrase-like, catalytic domain superfamily
